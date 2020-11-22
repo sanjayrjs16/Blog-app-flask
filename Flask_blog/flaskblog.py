@@ -10,7 +10,7 @@ posts = [
 	},
 
 	{	'author': 'Epictetus',
-		'title' : 'Stoa',
+		'title' : 'Stoic',
 		'date' : '2 BC'
 	}
 
